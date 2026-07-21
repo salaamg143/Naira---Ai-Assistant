@@ -1,0 +1,6 @@
+{
+  "name": "NAIRA",
+  "description": "NAIRA is a Jarvis-style, voice-controlled personal AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
